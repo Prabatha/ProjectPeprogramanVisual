@@ -5,7 +5,7 @@ main_window.title("TO-DO-LIST-APP")
 main_window.geometry('400x100')
 
 def add_task():
-    pass
+   task = entry_task.get()
 
 #Buat GUInya
 listbox_task = tk.Listbox(main_window, height=3, width=50)
