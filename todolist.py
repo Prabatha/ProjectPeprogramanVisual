@@ -1,5 +1,4 @@
 import tkinter as tk 
-import tkinter.messagebox
 
 main_window = tk.Tk()
 main_window.title("TO-DO-LIST-APP")
