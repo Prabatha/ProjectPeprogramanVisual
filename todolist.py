@@ -3,6 +3,7 @@ import tkinter.messagebox
 
 main_window = tk.Tk()
 main_window.title("TO-DO-LIST-APP")
+main_window.geometry('400x100')
 
 def add_task():
     pass
