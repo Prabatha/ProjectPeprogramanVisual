@@ -35,6 +35,7 @@ entry_task.pack()
 button_add_task = Button(main_window, text="Tambah List Kegiatan", width=48, command=add_task)
 button_add_task.pack()
 
-main_window.mainloop()
+button_add_task = Button(main_window, text="Tambah List Kegiatan", width=48, command=add_task)
+button_add_task.pack()
 
-print("coba git")
+main_window.mainloop()
