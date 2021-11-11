@@ -36,3 +36,5 @@ button_add_task = Button(main_window, text="Tambah List Kegiatan", width=48, com
 button_add_task.pack()
 
 main_window.mainloop()
+
+print("coba git")
